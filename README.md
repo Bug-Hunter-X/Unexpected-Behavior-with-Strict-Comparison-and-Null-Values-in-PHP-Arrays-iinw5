@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in PHP related to strict comparison (===) and null values in arrays. The `bug.php` file shows the problematic code, while `bugSolution.php` offers a solution.  The issue highlights the importance of understanding type handling in PHP, especially when dealing with potentially null values.
